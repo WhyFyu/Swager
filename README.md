@@ -27,3 +27,4 @@ click on both of it.
 After that the computer will crash and maybe not be able to boot up again (based on computer hardware)
 
 ~💸Enjoy💸~
+![image](https://user-images.githubusercontent.com/96570101/147315713-bf66b22b-a9c8-4ce5-bec7-85348d07ec3a.png)
